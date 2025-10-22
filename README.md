@@ -41,5 +41,5 @@ This project is a C++ simulation of a basic blockchain ledger, where each block 
 - Received debugging help from the Chapman TLC
 
 ## Instructions for compiling
-- To compile: g++ -o blockchain main.cpp Block.cpp Blockchain.cpp UserInterface.cpp
+- To compile: g++ *.cpp -o blockchain
 - To run: ./blockchain

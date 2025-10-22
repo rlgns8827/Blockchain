@@ -30,16 +30,6 @@ This project is a C++ simulation of a basic blockchain ledger, where each block 
 9. blockchain
 10. README.MD
 
-## Known Error 
-- There are no known errors in this program.
-
-## References
-- https://www.w3schools.com/CPP/cpp_files.asp
-- https://www.w3schools.com/dsa/dsa_theory_hashtables.php
-- https://www.w3schools.com/cpp/cpp_date.asp
-- https://www.w3schools.com/dsa/dsa_data_hashsets.php
-- Received debugging help from the Chapman TLC
-
 ## Instructions for compiling
 - To compile: g++ *.cpp -o blockchain
 - To run: ./blockchain

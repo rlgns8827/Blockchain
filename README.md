@@ -14,9 +14,9 @@ This project is a C++ simulation of a basic blockchain ledger, where each block 
 #### How to Run
 To compile and run the program:
 
-1. **Compile**: Use g++ to compile the `main.cpp` file.
+1. **Compile**: Use g++ to compile all project source file.
    ```bash
-   g++ main.cpp -o blockchain
+   g++ *.cpp -o blockchain
    ```
 
 2. **Run**: Execute the compiled program with the input file name as a command-line argument.
@@ -31,4 +31,5 @@ To compile and run the program:
 
 #### References
 - No external libraries or non-primitive data structures (e.g., vectors) are used, as per project requirements.
+
 
